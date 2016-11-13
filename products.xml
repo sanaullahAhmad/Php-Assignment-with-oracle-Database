@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<flowers>
+     <!--data copied from http://www.theflowershop.ae/-->
+    <plant> 
+        <id>1</id>
+        <name>Pretty Pink</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$15.44</price>
+        <pic>pix-1.jpg</pic>
+    </plant>
+    <plant>
+        <id>2</id>
+        <name>Painted Skies Tulip Bouquet</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$15.44</price>
+        <pic>pix-2.jpg</pic>
+    </plant>
+    <plant>
+        <id>3</id>
+        <name>Sunny Birthday Present</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$35.44</price>
+        <pic>pix-3.jpg</pic>
+    </plant>
+    <plant>
+        <id>4</id>
+        <name>Lovely Ladybug Bouquet</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$35.44</price>
+        <pic>pix-4.jpg</pic>
+    </plant>
+    <plant>
+        <id>5</id>
+        <name>Butterfly Serenity Bouquet</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$35.44</price>
+        <pic>pix-5.jpg</pic>
+    </plant>
+    <plant>
+        <id>6</id>
+        <name>Swirls of Love Bouquet</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$35.44</price>
+        <pic>pix-6.jpg</pic>
+    </plant>
+    <plant>
+        <id>7</id>
+        <name>Morning Melody</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$35.44</price>
+        <pic>pix-7.jpg</pic>
+    </plant>
+    <plant>
+        <id>8</id>
+        <name>Passion's Heart Bouquet</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$35.44</price>
+        <pic>pix-8.jpg</pic>
+    </plant>
+
+
+
+    <plant>
+        <id>9</id>
+        <name>Nachtmann Slice Vase</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$35.44</price>
+        <pic>pix-9.jpg</pic>
+    </plant>
+    <plant>
+        <id>10</id>
+        <name>So Happy You're Mine Bouquet</name>
+        <cat>Sanguinaria canadensis</cat>
+        <zone>4</zone>
+        <color>Mostly Shady</color>
+        <price>$35.44</price>
+        <pic>pix-10.jpg</pic>
+    </plant>
+  
+
+</flowers>
